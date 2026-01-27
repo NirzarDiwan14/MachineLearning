@@ -5,6 +5,9 @@
 
 During videos **1 to 10**, I have learned and completed the following topics:
 
+24,25,26 jan was holiday 
+27 jan 2026 = i have learned superised ml -metrics in regression ,  regression,simple linear regression , multiple liear regression , polynomial regression ,gradient descent technique for finding optimum minimum , ridsge regression , lasso regression ,
+
 ---
 
 # Table of Contents
@@ -40,3 +43,5 @@ basics/README.md
 **One-liner:**
 
 > Finished ML basics (videos 1–10) and documented core concepts clearly.
+
+
