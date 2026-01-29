@@ -1,47 +1,68 @@
-# MachineLearning
+# Machine Learning
 
-**100 Days of ML Playlist**
-**Date:** 23 Jan 2026
+## 🚀 100 Days of ML Playlist
 
-During videos **1 to 10**, I have learned and completed the following topics:
+## 📅 Daily Learning & Task Progress Report
 
-24,25,26 jan was holiday 
-27 jan 2026 = i have learned superised ml -metrics in regression ,  regression,simple linear regression , multiple liear regression , polynomial regression ,gradient descent technique for finding optimum minimum , ridsge regression , lasso regression ,
+**Start Date:** 23 Jan 2026
 
 ---
 
-# Table of Contents
+## 📘 Learning Progress
 
-1. [Types of Machine Learning](#types-of-machine-learning)
-2. [Batch (Offline) Learning vs Online Learning](#batch-offline-learning-vs-online-learning)
-3. [Instance-Based vs Model-Based Learning](#instance-based-vs-model-based-learning)
-4. [Challenges of Machine Learning](#challenges-of-machine-learning)
-5. [Applications of Machine Learning in B2B Market](#applications-of-machine-learning-in-b2b-market)
-6. [Machine Learning Development Life Cycle (MLDLC)](#machine-learning-development-life-cycle-mldlc)
-7. [Key Job Roles in Data & ML](#key-job-roles-in-data--ml)
+### 🎥 Videos 1–10
+Completed and learned the foundational concepts of Machine Learning through videos **1 to 10**.
 
 ---
 
-## Notes Location
-
-All detailed notes for the above topics are available in:
-
-```
-basics/README.md
-```
+## 📅 24–26 Jan 2026
+- **Holiday**
 
 ---
 
-## Summary
+## 📅 27 Jan 2026 — Supervised Machine Learning (Regression)
 
-* Covered ML fundamentals from video 1 to 10.
-* Built conceptual understanding of ML types, workflows, and roles.
-* Created structured notes for quick revision.
+### Topics Covered:
+- Regression metrics
+- Introduction to regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
+- Gradient Descent technique for finding the optimal minimum
+- Ridge Regression
+- Lasso Regression
 
 ---
 
-**One-liner:**
+## 📅 28 Jan 2026 — Supervised Machine Learning (Tree-Based Models & Ensembles)
 
-> Finished ML basics (videos 1–10) and documented core concepts clearly.
+### Topics Covered:
+- Decision Trees
+- Entropy
+- Gini Impurity
+- Information Gain
+- Hyperparameters of Decision Trees
+- Ensemble Learning:
+  - Voting Ensemble
+  - Bagging (Random Forest)
+  - Boosting
+  - Stacking
+- Random Forest:
+  - Concept and working
+  - Fundamental differences from Bagging:
+    - Tree-level feature sampling
+    - Node-level feature sampling
+- Gradient Boosting
+- Introduction to XGBoost
+
+### Practical Work:
+- **Task 1:** Data processing
+- LMS software project research
+
+---
+
+## 📅 29 Jan 2026 — Task Completion
+- ✅ Task 1 completed
+- ✅ Task 2 completed
 
 
