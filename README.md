@@ -108,4 +108,5 @@ No learning activities during this period.
 
 * Neural network fundamentals card - tasks done  
 * ANN — Basic tasks 
+* CNN — Basic Project 
 
